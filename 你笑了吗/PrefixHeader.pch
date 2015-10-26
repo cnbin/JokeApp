@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  你笑了吗
+//
+//  Created by Apple on 10/21/15.
+//  Copyright © 2015 cnbin. All rights reserved.
+//
+
+
+// PrefixHeader.pch
+#ifdef __OBJC__
+#import <tingyunApp/NBSAppAgent.h>
+//...
+#endif
